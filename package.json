@@ -1,0 +1,31 @@
+{
+  "name": "gulp-fe-tools",
+  "version": "1.0.0",
+  "description": "A gulp front-End tools",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-base64": "^0.1.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^2.1.0",
+    "gulp.spritesmith": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/joname1/gulpfile.git",
+  "keywords": [
+    "fe"
+  ],
+  "author": "joname",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/joname1/gulpfile/issues"
+  },
+  "homepage": "https://github.com/joname1/gulpfile#readme"
+}
